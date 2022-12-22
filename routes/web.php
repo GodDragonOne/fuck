@@ -24,8 +24,8 @@ Route::get('/test', function () {
     each($str2);
 });
 
-<<<<<<< HEAD
+
 //示範怎麼鋪妳媽
-=======
+
 //示範怎麼dev
->>>>>>> dev
+
