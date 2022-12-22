@@ -24,4 +24,4 @@ Route::get('/test', function () {
     each($str2);
 });
 
-//示範怎麼pus
+//示範怎麼push
